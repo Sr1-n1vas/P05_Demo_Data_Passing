@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P05_Demo_Data_Passing</string>
+    <string name="pasInt">PASS INTEGER VALUE TO 2ND ACTIVITY</string>
+    <string name="passChar">PASS CHARACTER VALUE TO 2ND ACTIVITY</string>
+</resources>
